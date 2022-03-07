@@ -5,6 +5,6 @@ Some examples of queries for users, all code I wrote on ABAP. SQ01 queries and i
 - OFD History - specific query shows history of changing field which is affect to FI data
 
 LSMW examples:
-- LSMW contracts creating.pdf
-- LSMW customers creating.pdf
-- LSMW prices.pdf
+- LSMW contracts creating
+- LSMW customers creating
+- LSMW prices
